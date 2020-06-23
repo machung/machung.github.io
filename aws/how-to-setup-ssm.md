@@ -1,4 +1,4 @@
-# How to connect to AWS EC2 instance using Session Manager
+# How to connect to AWS EC2 instance using AWS CLI with Session Manager
 
 1. Install AWS SSM agent on the EC2 instance if it doesn't be installed on your instance yet. Please refer the [official document](https://docs.aws.amazon.com/zh_tw/systems-manager/latest/userguide/sysman-manual-agent-install.html).
 1. Install AWS CLI on your local workstation. Please refer the [official document](https://docs.aws.amazon.com/zh_tw/cli/latest/userguide/install-cliv2-windows.html) for Windows.
